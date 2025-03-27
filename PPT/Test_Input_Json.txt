@@ -1,0 +1,103 @@
+1. Writ Petition:
+{
+  "case_number": "WP123",
+  "year": 2025,
+  "petitioner": "John Doe",
+  "respondent": "State Government",
+  "court_name": "Supreme Court",
+  "jurisdiction": "Federal",
+  "legal_grounds": "Violation of Fundamental Rights",
+  "relief_sought": "Injunction",
+  "supporting_documents": ["petition.pdf", "evidence.jpg"]
+}
+
+
+2. Affidavit:
+{
+  "case_number": "AFF456",
+  "year": 2025,
+  "petitioner": "Jane Doe",
+  "respondent": "XYZ Corporation",
+  "affiant_name": "John Smith",
+  "order_date": "2025-03-05",
+  "property_name": "Downtown Plaza",
+  "statement_of_facts": ["Fact 1", "Fact 2"]
+}
+
+3. Patent:
+{
+  "application_number": "PA789",
+  "year": 2025,
+  "inventor_name": "Elon Musk",
+  "assignee": "Tesla Inc.",
+  "title": "Hyperloop Transport",
+  "field_of_invention": "High-Speed Transportation",
+  "background": "A system to reduce travel time using vacuum tubes.",
+  "summary": "A detailed implementation of Hyperloop.",
+  "claims": ["Claim 1", "Claim 2"],
+  "drawings_description": ["Diagram 1", "Diagram 2"]
+}
+
+4. Annexure:
+{
+  "case_number": "ANX101",
+  "year": 2025,
+  "petitioner": "John Doe",
+  "respondent": "State Government",
+  "annexure_title": "Supporting Evidence",
+  "annexure_number": "AX-123",
+  "description": "Additional documents related to the case.",
+  "supporting_documents": ["evidence1.pdf", "evidence2.jpg"]
+}
+
+5. witness Statement:
+{
+  "case_number": "WS102",
+  "year": 2025,
+  "court_name": "High Court",
+  "witness_name": "Michael Johnson",
+  "witness_details": "Key witness in the fraud case.",
+  "statement": "I saw the defendant committing the fraud on 5th March 2025."
+}
+
+6. Exhibit:
+{
+  "case_number": "EX103",
+  "year": 2025,
+  "exhibit_number": "EX-567",
+  "exhibit_title": "Crime Scene Photo",
+  "description": "Photo taken from the crime scene.",
+  "attached_documents": ["crime_scene.jpg", "forensic_report.pdf"]
+}
+
+7. Forensic Report:
+{
+  "case_number": "FR104",
+  "year": 2025,
+  "forensic_expert": "Dr. Alan Grant",
+  "forensic_field": "DNA Analysis",
+  "report_summary": "DNA sample analysis conducted on crime scene evidence.",
+  "findings": "DNA matches the suspect's sample.",
+  "conclusion": "The suspect was present at the crime scene."
+}
+
+8. Expert Opinion:
+{
+  "case_number": "EO105",
+  "year": 2025,
+  "expert_name": "Dr. Jane Foster",
+  "field_of_expertise": "Medical Science",
+  "opinion_summary": "Medical analysis of injury severity.",
+  "detailed_opinion": "Based on medical records, the injuries sustained are life-threatening.",
+  "supporting_references": ["Medical_Report_1.pdf", "X-Ray_Scan.jpg"]
+}
+
+
+
+
+
+
+
+
+
+
