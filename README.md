@@ -28,20 +28,20 @@ AI Paralegal is an AI-powered legal assistant that helps analyze legal documents
 
 ## 📂 Project Structure
 ```
-│   .env
-│   AI_paralegal.py
-│   doc_draft.py
-│   rag_chatbot.py
-│   requirements.txt
-│
-├───Downloads
-├───SampleDocuments
-│       Affidavit.pdf
-│       Writ_petition.pdf
-│
-└───__pycache__
-        doc_draft.cpython-312.pyc
-        rag_chatbot.cpython-312.pyc
+AI_paralegal/
+├── .env                   # Environment configuration file
+├── AI_paralegal.py        # Main script for the AI Paralegal application
+├── doc_draft.py           # Module for document drafting functionalities
+├── rag_chatbot.py         # Module for the Retrieval-Augmented Generation chatbot
+├── requirements.txt       # List of required Python packages
+├── Downloads/             # Directory for downloaded files
+├── SampleDocuments/       # Directory containing sample legal documents
+│   ├── Affidavit.pdf      # Sample affidavit document
+│   └── Writ_petition.pdf  # Sample writ petition document
+└── __pycache__/           # Directory for compiled Python files
+    ├── doc_draft.cpython-312.pyc
+    └── rag_chatbot.cpython-312.pyc
+
 ```
 
 ## 📦 Installation Guide
