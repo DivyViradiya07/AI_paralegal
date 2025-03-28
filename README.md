@@ -27,6 +27,7 @@ AI Paralegal is an AI-powered legal assistant that helps analyze legal documents
 ---
 
 ## 📂 Project Structure
+```
 │   .env
 │   AI_paralegal.py
 │   doc_draft.py
@@ -41,6 +42,7 @@ AI Paralegal is an AI-powered legal assistant that helps analyze legal documents
 └───__pycache__
         doc_draft.cpython-312.pyc
         rag_chatbot.cpython-312.pyc
+```
 
 ## 📦 Installation Guide
 
